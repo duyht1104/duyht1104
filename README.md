@@ -14,7 +14,7 @@ I build systems where data, infrastructure, and trading strategy meet — from l
 - **VN30F1M systematic strategies** — Python strategies for Vietnamese derivatives, focused on execution feasibility and local market microstructure. **~+65% / year** on deployed strategies since 2023.
 - **HFT research for VN derivatives** — Rust PoC targeting **sub-20ms** end-to-end latency with real-time data feed integration.
 
-### Data Engineering (Rackspace Singapore, 2023–2026)
+### Data Engineering 
 - **Power BI MCP** — spec-driven semantic-model generation from Markdown. ~95% reduction in DAX management time, full model regeneration in under 1 hour.
 - **Tableau → Power BI migration** — ~300 reports, automated formula transformation, RLS, 1:1 visual parity.
 - **CSP → EA Azure migration** — ~40 resource groups, ~500 resources; PowerShell + ARM framework that cut migration time ~90%.
